@@ -34,16 +34,6 @@ Contributions to the Mental Health Hub are welcome! If you'd like to contribute,
 We appreciate your contributions to make the Mental Health Hub even better!
 
 ## Screenshots
-<p align="center">
-  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/4bdf2329-eee1-4726-a2ed-850b2cd1bcfa.png" alt="Register" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/6e08d03b-f513-4f45-989f-421a9326b192.png" alt="Login" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/50792bcc-aa45-4aa2-b1a7-e84d09c950be.png" alt="Profile" width="200" style="margin: 10px;">
-</p>
-<p align="center">
-  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/e19b3e49-3a0a-4033-a8ed-58fd4b3e4d1d.png" alt="Main" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/18a57d27-94bb-44d9-8704-1b7934cf0001.png" alt="Counter" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/26ec563e-0726-4198-a0b1-59728ea6f961.png" alt="Tips" width="200" style="margin: 10px;">
-</p>
 ![register](https://github.com/Adarsh6158/Mental-health/assets/119891550/4bdf2329-eee1-4726-a2ed-850b2cd1bcfa)
 ![login](https://github.com/Adarsh6158/Mental-health/assets/119891550/6e08d03b-f513-4f45-989f-421a9326b192)
 ![profile](https://github.com/Adarsh6158/Mental-health/assets/119891550/50792bcc-aa45-4aa2-b1a7-e84d09c950be)
