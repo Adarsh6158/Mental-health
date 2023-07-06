@@ -57,7 +57,7 @@ We appreciate your contributions to make the Mental Health Hub even better!
 
 ## Download
 
-You can download the latest version of the Mental Health Hub APK by clicking [here](./MentalHealth.apk).
+You can download the latest version of the Mental Health APK by clicking [here](./MentalHealth.apk).
 
 ## Installation
 
