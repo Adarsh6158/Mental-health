@@ -34,7 +34,28 @@ Contributions to the Mental Health Hub are welcome! If you'd like to contribute,
 We appreciate your contributions to make the Mental Health Hub even better!
 
 ## Screenshots
-![screnshots](https://github.com/Adarsh6158/Metro-Mapper/assets/119891550/aa1588b3-84ad-44c2-86d9-f1f38ebe2d99)
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/4bdf2329-eee1-4726-a2ed-850b2cd1bcfa.png" alt="Register" width="200" style="margin: 10px;">
+  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/6e08d03b-f513-4f45-989f-421a9326b192.png" alt="Login" width="200" style="margin: 10px;">
+  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/50792bcc-aa45-4aa2-b1a7-e84d09c950be.png" alt="Profile" width="200" style="margin: 10px;">
+</p>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/e19b3e49-3a0a-4033-a8ed-58fd4b3e4d1d.png" alt="Main" width="200" style="margin: 10px;">
+  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/18a57d27-94bb-44d9-8704-1b7934cf0001.png" alt="Counter" width="200" style="margin: 10px;">
+  <img src="https://github.com/Adarsh6158/Mental-health/blob/main/assets/119891550/26ec563e-0726-4198-a0b1-59728ea6f961.png" alt="Tips" width="200" style="margin: 10px;">
+</p>
+![register](https://github.com/Adarsh6158/Mental-health/assets/119891550/4bdf2329-eee1-4726-a2ed-850b2cd1bcfa)
+![login](https://github.com/Adarsh6158/Mental-health/assets/119891550/6e08d03b-f513-4f45-989f-421a9326b192)
+![profile](https://github.com/Adarsh6158/Mental-health/assets/119891550/50792bcc-aa45-4aa2-b1a7-e84d09c950be)
+![main](https://github.com/Adarsh6158/Mental-health/assets/119891550/e19b3e49-3a0a-4033-a8ed-58fd4b3e4d1d)
+![counter](https://github.com/Adarsh6158/Mental-health/assets/119891550/18a57d27-94bb-44d9-8704-1b7934cf0001)
+![tips](https://github.com/Adarsh6158/Mental-health/assets/119891550/26ec563e-0726-4198-a0b1-59728ea6f961)
+![yoga](https://github.com/Adarsh6158/Mental-health/assets/119891550![games](https://github.com/Adarsh6158/Mental-health/assets/119891550/b8e04e42-3d20-4a38-b3bb-50c6a0edbd2e)
+/c303dd65-8950-49b7-aab5-3e0f7e8b2ee6)
+![Quotes](https://github.com/Adarsh6158/Mental-health/assets/119891550/e10bbbed-5a5a-46ea-b68c-ca0f8df12ad8)
+![op](https://github.com/Adarsh6158/Mental-health/assets/119891550/0bf26e3a-473d-42d1-b30e-12945b953d2a)
+![songs](https://github.com/Adarsh6158/Mental-health/assets/119891550/e483ef2c-744f-4919-b125-fa750c48db3a)
+
 
 ## Download
 
