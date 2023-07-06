@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MentalHealth</string>
+    <string name="SignUpActivityHeader">Signup Activity</string>
+    <string name="SignUpActivityButton">Sign up</string>
+    <string name="SignUpActivityNote">NOTE: \n\n1. Password should contain Uppercase and Lowercase \n2. Password should contain Letters and Numbers \n3. Password should contain Special Characters \n4. Minimum length of the password should be 8</string>
+    <string name="LoginActivityHeader">Login Activity</string>
+    <string name="LoginActivityButton">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+</resources>

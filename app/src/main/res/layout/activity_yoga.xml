@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".YogaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/yoga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="YOGA"
+            android:textColor="@color/black"
+            android:textSize="50dp"
+            />
+
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="205dp"
+            android:layout_height="206dp"
+            android:layout_marginStart="100dp"
+            app:srcCompat="@drawable/one" />
+
+        <ImageButton
+            android:id="@+id/speakButton1"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert1"/>
+
+        <TextView
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Sukhasana the Easy Pose may seem as an easy pose but it has many benefits for the body. For example, it is a hip opener, it is calming, and it eases the menstrual pain for women in addition to lowering the level of anxiety."
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center" />
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="208dp"
+            android:layout_height="196dp"
+            android:layout_below="@+id/view4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="6dp"
+            app:srcCompat="@drawable/two" />
+
+        <ImageButton
+            android:id="@+id/speakButton2"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/view2"
+            android:layout_below="@+id/imageView5"
+            android:text="The Downward Dog yoga pose lengthens and decompresses the spine, stretches the hamstrings, strengthens your arms, flushes your brain with fresh oxygen and calms your mind."
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="226dp"
+            android:layout_height="228dp"
+            android:layout_marginStart="100dp"
+            app:srcCompat="@drawable/four" />
+
+        <ImageButton
+            android:id="@+id/speakButton3"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert3"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/view3"
+            android:text="Trikonasana the Triangle is one of those postures that brings to your body many benefits. For example, it  improves the flexibility of your spine; it helps with the alignment of your shoulders; it relieves back pain and stiffness in the neck area,"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="217dp"
+            android:layout_height="244dp"
+            app:srcCompat="@drawable/three"
+            android:layout_marginStart="100dp"
+
+            />
+        <ImageButton
+            android:id="@+id/speakButton4"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert4"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@id/view4"
+            android:text="Virabhadrasana The Warrior I is a great pose for those of you who have had a hectic day at work and just need to relax your body and mind. While in this pose you are strengthening your legs, your are opening your chest and shoulders, movements which we usually don’t do throughout our day, but they are necessary for a good posture and peaceful mind"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="222dp"
+            android:layout_height="265dp"
+            android:layout_marginStart="100dp"
+            app:srcCompat="@drawable/five" />
+        <ImageButton
+            android:id="@+id/speakButton5"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/view5"
+            android:text="Navasana The Boat yoga requires for one to be stable (as a boat) which means, straight back, chin looking forward, while knees and arms are locked. This is not an easy posture. Through it you build strong abdominal and core straight."
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="225dp"
+            android:layout_height="309dp"
+            android:layout_marginStart="100dp"
+            app:srcCompat="@drawable/six" />
+        <ImageButton
+            android:id="@+id/speakButton6"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/view6"
+            android:text="Natarajasana The King Dancer yoga pose strengthens your legs, improves balance and core strength while also stretches your shoulders and improves your focus. It is one of the most graceful asana."
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="229dp"
+            android:layout_height="308dp"
+            android:layout_marginStart="80dp"
+            app:srcCompat="@drawable/seven" />
+        <ImageButton
+            android:id="@+id/speakButton7"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_alignEnd="@id/imageView1"
+            android:layout_alignBottom="@id/imageView1"
+            android:layout_marginStart="320dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/speak_button_background"
+            android:src="@drawable/speak"
+            android:elevation="4dp"
+            android:onClick="convert7"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/view7"
+            android:text="Vrksasana The Tree yoga pose may seems as another easy posture but it is not a resting asana. Your back should be aligned property (extended), your hips should be at one level, and since your stability depends on the distribution of your weight on your standing leg ensure you do while maintaing and improving your balance."
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="For more yoga posture"
+            android:textSize="25dp"
+            android:fontFamily="@font/bariol_bold"
+            android:textColor="@color/black"
+            />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginEnd="100dp"
+            android:text="Click me"
+            android:background="@drawable/border_box"
+            android:fontFamily="@font/bariol_bold"
+            android:layout_marginBottom="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>
+

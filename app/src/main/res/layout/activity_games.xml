@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GamesActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="40sp"
+            android:text="GAMES"
+            android:textColor="#FF4081"
+            android:fontFamily="@font/bariol_bold"
+            android:textStyle="bold"
+            android:letterSpacing="0.05"
+            android:textAlignment="center"
+            android:layout_marginTop="40dp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="20dp">
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/chess"
+                android:scaleType="centerCrop"
+                android:background="@android:color/transparent"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/chess"
+                android:text="Chess"
+                android:textSize="24sp"
+                android:textColor="@android:color/black"
+                android:gravity="center"
+                android:layout_marginTop="8dp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="20dp">
+
+            <ImageButton
+                android:layout_width="200dp"
+                android:id="@+id/button"
+                android:layout_height="200dp"
+                android:src="@drawable/suduko"
+                android:scaleType="centerCrop"
+                android:background="@android:color/transparent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sudko"
+                android:text="Sudoku"
+                android:textSize="24sp"
+                android:textColor="@android:color/black"
+                android:gravity="center"
+                android:layout_marginTop="8dp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="20dp">
+
+            <ImageButton
+                android:id="@+id/puzzelbutton"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/puzzel"
+                android:scaleType="centerCrop"
+                android:background="@android:color/transparent" />
+
+            <TextView
+                android:id="@+id/puzzel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Puzzle"
+                android:textColor="@android:color/black"
+                android:textSize="24sp"
+                android:layout_marginTop="8dp" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
