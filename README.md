@@ -1,6 +1,12 @@
-# Mental Health Hub
+<h1 align="center">Mental Health Hub</h1>
 
-The Mental Health Hub is an application designed to provide resources and support for mental well-being. It aims to help individuals improve their mental health through various activities such as meditation, yoga, listening to songs, playing games, and providing helpful tips and inspiring quotes.
+<p align="center">
+  <img src="https://example.com/screenshots" alt="Screenshots">
+</p>
+
+<p align="center">
+  The Mental Health Hub is an application designed to provide resources and support for mental well-being. It aims to help individuals improve their mental health through various activities such as meditation, yoga, listening to songs, playing games, and providing helpful tips and inspiring quotes.
+</p>
 
 ## Features
 
@@ -19,9 +25,6 @@ The Mental Health Hub is an application designed to provide resources and suppor
 - Engage in therapeutic games to distract your mind and promote mental well-being.
 - Learn practical tips to manage stress, improve sleep, and develop a positive mindset.
 - Find inspiration and motivation through meaningful quotes.
-
-## Screenshots
-![screnshots](https://example.com/screenshots)
 
 ## Contributing
 
