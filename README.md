@@ -36,7 +36,7 @@ We appreciate your contributions to make the Mental Health Hub even better!
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/Adarsh6158/Mental-health/assets/119891550/4bdf2329-eee1-4726-a2ed-850b2cd1bcfa" width="250" style="margin: 20px;">
+  <img src="https://github.com/Adarsh6158/Mental-health/assets/119891550/4bdf2329-eee1-4726-a2ed-850b2cd1bcfa" width="250" style="margin: 50px;">
   <img src="https://github.com/Adarsh6158/Mental-health/assets/119891550/6e08d03b-f513-4f45-989f-421a9326b192" width="250" style="margin: 20px;">
   <img src="https://github.com/Adarsh6158/Mental-health/assets/119891550/50792bcc-aa45-4aa2-b1a7-e84d09c950be" width="250" style="margin: 20px;">
 </div>
