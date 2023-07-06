@@ -1,11 +1,6 @@
-<h1 align="center">Mental Health Hub</h1>
-
+<h1 align="center">Mental Health App</h1>
 <p align="center">
-  <img src="https://example.com/screenshots" alt="Screenshots">
-</p>
-
-<p align="center">
-  The Mental Health Hub is an application designed to provide resources and support for mental well-being. It aims to help individuals improve their mental health through various activities such as meditation, yoga, listening to songs, playing games, and providing helpful tips and inspiring quotes.
+  The Mental Health is an application designed to provide resources and support for mental well-being. It aims to help individuals improve their mental health through various activities such as meditation, yoga, listening to songs, playing games, and providing helpful tips and inspiring quotes.
 </p>
 
 ## Features
@@ -38,6 +33,9 @@ Contributions to the Mental Health Hub are welcome! If you'd like to contribute,
 
 We appreciate your contributions to make the Mental Health Hub even better!
 
+## Screenshots
+![screnshots](https://github.com/Adarsh6158/Metro-Mapper/assets/119891550/aa1588b3-84ad-44c2-86d9-f1f38ebe2d99)
+
 ## Download
 
 You can download the latest version of the Mental Health Hub APK by clicking [here](./MentalHealthHub.apk).
@@ -55,6 +53,7 @@ You can download the latest version of the Mental Health Hub APK by clicking [he
 
 For support, email adarsh6158@gmail.com.
 
-## 🔗 Links
+## 🔗 Link\
 
-- [LinkedIn](https://www.linkedin.com/in/yourname)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-35a9931ba/)
