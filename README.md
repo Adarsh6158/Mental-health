@@ -21,17 +21,6 @@
 - Learn practical tips to manage stress, improve sleep, and develop a positive mindset.
 - Find inspiration and motivation through meaningful quotes.
 
-## Contributing
-
-Contributions to the Mental Health Hub are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes with descriptive commit messages.
-4. Push your branch to your forked repository.
-5. Open a pull request and describe the changes you made.
-
-We appreciate your contributions to make the Mental Health Hub even better!
 
 ## Screenshots
 
